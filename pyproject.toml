@@ -1,0 +1,14 @@
+[project]
+name = "personal-dashboard-tracker"
+version = "0.1.0"
+description = "A Streamlit dashboard for organizing sample personal records."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["streamlit>=1.36.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
