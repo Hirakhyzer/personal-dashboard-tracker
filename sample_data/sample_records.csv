@@ -1,0 +1,9 @@
+date,type,category,description,amount
+2026-06-01,Incoming,Salary,Monthly payment,2200.00
+2026-06-02,Outgoing,Rent,Apartment,650.00
+2026-06-03,Outgoing,Food,Groceries,120.00
+2026-06-04,Outgoing,Transport,Metro card,45.00
+2026-06-08,Outgoing,Learning,Online course,79.00
+2026-06-12,Incoming,Freelance,Dashboard project,450.00
+2026-06-15,Outgoing,Food,Cafe,28.50
+2026-06-18,Outgoing,Utilities,Internet bill,55.00
